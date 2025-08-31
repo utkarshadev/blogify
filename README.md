@@ -1,6 +1,6 @@
-# Blogify
+# AIBlog
 
-Blogify is a simple blogging platform built with Node.js, Express, MongoDB, and EJS. Users can sign up, sign in, create blogs, comment, and upload images.
+AIBlog is a simple blogging platform built with Node.js, Express, MongoDB, and EJS. Users can sign up, sign in, create blogs, comment, and upload images.
 
 ## Features
 
@@ -29,7 +29,7 @@ Blogify is a simple blogging platform built with Node.js, Express, MongoDB, and 
 2. **Configure environment:**
    - Set MongoDB connection string in `.env`:
      ```
-     MONGO_URL=mongodb://localhost:27017/blogify
+     MONGO_URL=mongodb://localhost:27017/AIBlog
      ```
 
 3. **Run the app:**
